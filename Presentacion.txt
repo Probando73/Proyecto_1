@@ -1,0 +1,1 @@
+La idea de esto es practicar el uso de git y github, creando algun proyecto.
